@@ -18,12 +18,11 @@
 
 </p>
 
-> APPLICATION WEB POUR LA GESTION ET LE SUIVI DES ABSENCES POUR EST SIDI BERNNOUR `AbsenseAppEstsb`  <br /> 
 
+
+
+<h1  align="center >   ✨ Comment Ca marche  ✨</h1>
 <p align="center">
-
-<h1>   ✨ Comment Ca marche  ✨</h1>
-
   <img   src="https://i.imgur.com/w0Bgteb.png" /> 
 </p>
 
