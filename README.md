@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to readme-md-generator 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/npm-6.4.1-blue.svg?cacheSeconds=2592000" />
+    
   <a href="https://www.npmjs.com/package/readme-md-generator">
     <img alt="downloads" src="https://img.shields.io/npm/dm/readme-md-generator.svg?color=blue" target="_blank" />
   </a>
