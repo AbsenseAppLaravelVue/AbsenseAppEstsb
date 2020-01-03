@@ -1,5 +1,4 @@
   <img align="center" src="https://i.imgur.com/jBVqWum.png" />
-<h1 align="center">Bonjour tout le monde 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/npm-6.4.1-blue.svg?cacheSeconds=2592000" />
@@ -22,10 +21,11 @@
 > APPLICATION WEB POUR LA GESTION ET LE SUIVI DES ABSENCES POUR EST SIDI BERNNOUR `AbsenseAppEstsb`  <br /> 
 
 
-<h1 align="center"> ✨ Comment Ca marche  ✨</h1>
+<h1   ✨ Comment Ca marche  ✨</h1>
 
-
-  <img  align="center" width="500" src="https://i.imgur.com/G0AxfC5.png" /> 
+<p align="center">
+  <img   width="500" src="https://i.imgur.com/G0AxfC5.png" /> 
+</p>
 
 <p align="center">
   <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
