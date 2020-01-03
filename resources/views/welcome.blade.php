@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>OneSchool &mdash; Website by Colorlib</title>
+    <title>OneSchool &mdash; ESt SB </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -40,7 +40,7 @@
     </div>
 
 
- 
+
 
     <div class="intro-section" id="home-section">
 
@@ -49,7 +49,7 @@
           <div class="row align-items-center">
             <div class="col-12 ">
               <div class="row justify-content-center">
-                
+
 
                 <div class="col-lg-7  " data-aos="fade-up" data-aos-delay="500">
                                 <form method="POST" action="{{ route('login') }}" class="form-box">
@@ -58,7 +58,7 @@
 
                     <h3 class="h4 text-black mb-4">Login</h3>
 
-                    
+
                     @csrf
 
                     <div class="form-group ">
@@ -98,7 +98,7 @@
                                 {{ __('Login') }}
                             </button>
 
-                          
+
                     </div>
 
 

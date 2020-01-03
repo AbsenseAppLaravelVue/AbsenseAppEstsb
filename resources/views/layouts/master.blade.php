@@ -10,7 +10,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title>AdminLTE 3 | Starter</title>
+  <title>Absense 3 | Starter</title>
     <link rel="stylesheet" href="/css/app.css">
     <style>
         .nom{
@@ -61,7 +61,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="/dashboard" class="brand-link">
-      <img src="./img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
+      <img src="./img/AdminLTELogo.png" alt="Absense Logo" class="brand-image img-circle elevation-3"
            style="opacity: .8">
       <span class="brand-text font-weight-light">Absense APP</span>
     </a>
@@ -77,7 +77,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
           <router-link to="/profile" class="nom">{{Auth::user()->name}}</router-link>
         </div>
       </div>
- 
+
       <!-- Sidebar Menu -->
       <nav class="mt-2">
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
@@ -85,7 +85,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                with font-awesome or any other icon font library -->
 
                @can('isadmin')
-             
+
 
 
                <li class="nav-item">
@@ -168,13 +168,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
                   <i class="nav-icon fas fa-user-graduate"></i>
                   <p>
                     Marqué absent
-    
+
                   </p>
                 </router-link>
-    
+
               </li>
 
-              @endcan   
+              @endcan
 
           </li>
 
@@ -249,7 +249,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   </aside>
   <!-- /.control-sidebar -->
 
-  <!-- Main Footer 
+  <!-- Main Footer
   <footer class="main-footer">
     <div class="float-right d-none d-sm-inline">
       Est sidi bernnour
