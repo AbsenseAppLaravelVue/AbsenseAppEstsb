@@ -4,15 +4,15 @@
     
 
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
-    <img alt="Version : BETA" src="https://img.shields.io/badge/license-BETA-yellow.svg" target="_blank" />
+    <img alt="Version : BETA" src="https://img.shields.io/badge/license-BETA-blueviolet.svg" target="_blank" />
   </a>
   
    <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
-    <img alt="laravel : " src="https://img.shields.io/badge/ver-v6.5.2-yellow.svg" target="_blank" />
+    <img alt="laravel : " src="https://img.shields.io/badge/laravel-v6.5.2-red.svg" target="_blank" />
   </a>
   
    <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
-    <img alt="Version : BETA" src="https://img.shields.io/badge/license-BETA-yellow.svg" target="_blank" />
+    <img alt="Version : adminlte" src="https://img.shields.io/badge/adminlte-3.0-yellow.svg" target="_blank" />
   </a>
 
 </p>
