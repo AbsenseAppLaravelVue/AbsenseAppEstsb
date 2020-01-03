@@ -1,5 +1,5 @@
+  <img align="center" src="https://i.imgur.com/jBVqWum.png" />
 <h1 align="center">Bonjour tout le monde 👋</h1>
-  <img src="https://i.imgur.com/jBVqWum.png" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/npm-6.4.1-blue.svg?cacheSeconds=2592000" />
@@ -22,9 +22,9 @@
 > APPLICATION WEB POUR LA GESTION ET LE SUIVI DES ABSENCES POUR EST SIDI BERNNOUR `AbsenseAppEstsb`  <br /> 
 
 
-## ✨ SCREENSHOT FROM APP
+## ✨ Comment Ca marche 
 
-`readme-md-generator` is able to read your environment (package.json, git config...) to suggest you default answers during the `README.md` creation process:
+  <img src="https://i.imgur.com/G0AxfC5.png" /> 
 
 <p align="center">
   <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
