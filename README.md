@@ -1,4 +1,6 @@
 <h1 align="center">Bonjour tout le monde 👋</h1>
+  <img src="https://i.imgur.com/jBVqWum.png" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/npm-6.4.1-blue.svg?cacheSeconds=2592000" />
     
@@ -17,10 +19,10 @@
 
 </p>
 
-> APPLICATION WEB POUR LA GESTION ET LE SUIVI DES ABSENCES POUR EST SIDI BERNNOUR <br /> 
-`AbsenseAppEstsb` 
+> APPLICATION WEB POUR LA GESTION ET LE SUIVI DES ABSENCES POUR EST SIDI BERNNOUR `AbsenseAppEstsb`  <br /> 
 
-## ✨ Demo
+
+## ✨ SCREENSHOT FROM APP
 
 `readme-md-generator` is able to read your environment (package.json, git config...) to suggest you default answers during the `README.md` creation process:
 
