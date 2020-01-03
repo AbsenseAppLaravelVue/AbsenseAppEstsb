@@ -21,7 +21,7 @@
 
 
 
-<h1  align="center >   ✨ Comment Ca marche  ✨</h1>
+<h1 >   ✨ Comment Ca marche  ✨</h1>
 <p align="center">
   <img   src="https://i.imgur.com/w0Bgteb.png" /> 
 </p>
