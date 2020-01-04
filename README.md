@@ -24,25 +24,26 @@
 <h1 align="center" >   ✨ Comment Ca marche  ✨</h1>
 <p align="center">
   <img   src="https://i.imgur.com/9QCjrjH.png" /> 
-</p>
+
 <h1 align="center" >   ✨ Photo from appliction    ✨</h1>
 
 ##  🚀dashbord page 
-  <img width="700" align="center" src="https://i.imgur.com/zlqjbmy.jpg" alt="demo"/>
+  <img align="center" src="https://i.imgur.com/zlqjbmy.jpg" alt="demo"/>
   
 ## 🚀 Gestion des Professeurs
 
 
-<img width="700" align="center" src="https://i.imgur.com/k1qoCbU.jpg" alt="demo"/>
+<img  align="center" src="https://i.imgur.com/k1qoCbU.jpg" alt="demo"/>
 
 ## 🚀Gestion des matiere
      
-  <img width="700" align="center" src="https://i.imgur.com/UfIIHrJ.jpg"/>
+  <img  align="center" src="https://i.imgur.com/UfIIHrJ.jpg"/>
   
 ##   🚀Gestion d'Emploie
 
 
   <img width="700" align="center" src="https://i.imgur.com/zBNfTJI.jpg" alt="demo"/>
+  </p>
 Generated `README.md`:
 
 <p align="center">
