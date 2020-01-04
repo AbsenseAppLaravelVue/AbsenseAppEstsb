@@ -44,14 +44,7 @@
   <img   align="center" src="https://i.imgur.com/zBNfTJI.jpg" alt="demo"/>
 </p>
 
-Generated `README.md`:
 
-<p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="cli output"/>
-</p>
-
-
-Create a database for your site , open  .env, edit the database configuration information, and run php artisan key:generate
 ## 🚀 Usage
 
 Make sure you have [npm and nodejs]
@@ -62,13 +55,13 @@ Make sure you have [npm and nodejs]
 php artisan key:generate
 ```
 
-2- run (`-y`):
+2- migrate database :
 
 ```sh
 un php artisan migrate --seed
 ```
 
-install package.json (`-p`):
+install package.json  :
 
 ```sh
 npm install
