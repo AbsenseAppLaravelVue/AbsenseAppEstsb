@@ -1,10 +1,12 @@
   
 <h1 align="center" >   ✨ this project make by :  ✨</h1>
-<p align="center">
+<p align="center"> 
+   Ayoub ELkhaddari   || Maroun Benchike
+    
+  </p>
 
-##   Ayoub ELkhaddari   || Maroun Benchike 
 
-</p>
+
   <img align="center" src="https://i.imgur.com/jBVqWum.png" />
 
 <p align="center">
