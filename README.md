@@ -1,8 +1,9 @@
   
 <h1 align="center" >   ✨ this project make by :  ✨</h1>
+<p align="center">
 
-##   Ayoub el khaddari   |🚀| maroun benchike .<br />
-
+##   Ayoub el khaddari   || maroun benchike . 
+</p>
   <img align="center" src="https://i.imgur.com/jBVqWum.png" />
 
 <p align="center">
