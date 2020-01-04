@@ -1,7 +1,6 @@
   
-<h1 align="center" >   ✨ this project make by :  ✨</h1>
+<h1 align="center" >   ⭐    Ayoub ELkhaddari   || Maroun Benchike  ⭐</h1>
 <p align="center"> 
-   Ayoub ELkhaddari   || Maroun Benchike
     
   </p>
 
@@ -35,7 +34,7 @@
   <img   src="https://i.imgur.com/9QCjrjH.png" /> 
 
 
-##  🚀dashbord page 
+##  🚀 Dashbord page 
   <img align="center" src="https://i.imgur.com/zlqjbmy.jpg" alt="demo"/>
   
 ## 🚀 Gestion des Professeurs
@@ -43,11 +42,11 @@
 
 <img  align="center" src="https://i.imgur.com/k1qoCbU.jpg" alt="demo"/>
 
-## 🚀Gestion des matiere
+## 🚀 Gestion des matiere
      
   <img  align="center" src="https://i.imgur.com/UfIIHrJ.jpg"/>
   
-##   🚀Gestion d'Emploie
+##   🚀 Gestion d'Emploie
 
 
   <img   align="center" src="https://i.imgur.com/zBNfTJI.jpg" alt="demo"/>
@@ -82,4 +81,4 @@ you can send me a massge if project dosent work with you
 
 ---
 
-_This PRJOJECT MADE WITH A LOT OF LOVE AND AMUSING , THANK YOU ME BADDI FOR THIS  ❤️ _
+This Project made with a lot od love and amusing so thank you me baddi for this   ❤️  😀
