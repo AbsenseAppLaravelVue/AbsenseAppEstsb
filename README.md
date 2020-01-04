@@ -90,5 +90,5 @@ you can send me a massge if project dosent work with you
 
 
 ---
-
-<b align="center" > ❤️  😀 This Project made with a lot od love and amusing so thank you me baddi for this   ❤️  😀 </b>
+<p>
+<b align="center" > ❤️  😀 This Project made with a lot od love and amusing so thank you me baddi for this   ❤️  😀 </b> </p>
