@@ -50,51 +50,28 @@ Generated `README.md`:
   <img width="700" src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="cli output"/>
 </p>
 
-Example of `package.json` with good meta data:
 
-```json
-// The package.json is not required to run README-MD-GENERATOR
-{
-  "name": "readme-md-generator",
-  "version": "0.1.3",
-  "description": "CLI that generates beautiful README.md files.",
-  "author": "Franck Abgrall",
-  "license": "MIT",
-  "homepage": "https://github.com/kefranabg/readme-md-generator#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kefranabg/readme-md-generator.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kefranabg/readme-md-generator/issues"
-  },
-  "engines": {
-    "npm": ">=5.5.0",
-    "node": ">=9.3.0"
-  }
-}
-```
-
+Create a database for your site , open  .env, edit the database configuration information, and run php artisan key:generate
 ## 🚀 Usage
 
-Make sure you have [npx](https://www.npmjs.com/package/npx) installed (`npx` is shipped by default since npm `5.2.0`)
+Make sure you have [npm and nodejs]
 
-Just run the following command at the root of your project and answer questions:
+1- Create a database for your site , open ```sh .env ```, edit the database configuration information, and run 
 
 ```sh
-npx readme-md-generator
+php artisan key:generate
 ```
 
-Or use default values for all questions (`-y`):
+2- run (`-y`):
 
 ```sh
-npx readme-md-generator -y
+un php artisan migrate --seed
 ```
 
-Use your own `ejs` README template (`-p`):
+install package.json (`-p`):
 
 ```sh
-npx readme-md-generator -p path/to/my/own/template.md
+npm install
 ```
 
 You can find [ejs README template examples here](https://github.com/kefranabg/readme-md-generator/tree/master/templates).
