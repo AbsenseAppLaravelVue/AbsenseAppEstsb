@@ -33,6 +33,7 @@
 <p align="center">
   <img   src="https://i.imgur.com/9QCjrjH.png" /> 
 
+<h1 align="center" >   ⭐  admin page  ⭐</h1>
 
 ##  🚀 Dashbord page 
   <img align="center" src="https://i.imgur.com/zlqjbmy.jpg" alt="demo"/>
@@ -50,8 +51,14 @@
 
 
   <img   align="center" src="https://i.imgur.com/zBNfTJI.jpg" alt="demo"/>
-</p>
 
+
+<h1 align="center" >   ⭐  professeur page  ⭐</h1>
+
+  <img   align="center" src="https://i.imgur.com/aHza198.jpg" alt="demo"/>
+  <img   align="center" src="https://i.imgur.com/vVKpLUO.jpg" alt="demo"/>
+
+</p>
 
 ## 🚀 Usage
 
