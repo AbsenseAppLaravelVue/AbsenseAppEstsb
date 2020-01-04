@@ -91,4 +91,4 @@ you can send me a massge if project dosent work with you
 
 ---
 
-This Project made with a lot od love and amusing so thank you me baddi for this   ❤️  😀
+<b align="center" > ❤️  😀 This Project made with a lot od love and amusing so thank you me baddi for this   ❤️  😀 </b>
