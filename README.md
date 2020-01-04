@@ -25,7 +25,6 @@
 <p align="center">
   <img   src="https://i.imgur.com/9QCjrjH.png" /> 
 
-<h1 align="center" >   ✨ Photo from appliction    ✨</h1>
 
 ##  🚀dashbord page 
   <img align="center" src="https://i.imgur.com/zlqjbmy.jpg" alt="demo"/>
