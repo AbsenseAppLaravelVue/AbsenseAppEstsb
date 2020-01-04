@@ -42,8 +42,9 @@
 ##   🚀Gestion d'Emploie
 
 
-  <img width="700" align="center" src="https://i.imgur.com/zBNfTJI.jpg" alt="demo"/>
-  </p>
+  <img   align="center" src="https://i.imgur.com/zBNfTJI.jpg" alt="demo"/>
+</p>
+
 Generated `README.md`:
 
 <p align="center">
