@@ -78,43 +78,8 @@ npm install
 you can send me a massge if project dosent work with you
 
 
-## Financial Contributors
 
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/readme-md-generator/contribute)]
-
-### Individuals
-
-<a href="https://opencollective.com/readme-md-generator"><img src="https://opencollective.com/readme-md-generator/individuals.svg?width=890"></a>
-
-
-
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome.<br />
-Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues) if you want to contribute.<br />
-[Check the contributing guide](./CONTRIBUTING.md).<br />
-
-## Author
-
-👤 **Franck Abgrall**
-
-- Twitter: [@FranckAbgrall](https://twitter.com/FranckAbgrall)
-- Github: [@kefranabg](https://github.com/kefranabg)
-
-## Show your support
-
-Please ⭐️ this repository if this project helped you!
-
-<a href="https://www.patreon.com/FranckAbgrall">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## 📝 License
-
-Copyright © 2019 [Franck Abgrall](https://github.com/kefranabg).<br />
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
 ---
 
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This PRJOJECT MADE WITH A LOT OF LOVE AND AMUSING , THANK YOU ME BADDI FOR THIS  ❤️ _
