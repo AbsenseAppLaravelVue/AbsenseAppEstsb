@@ -49,7 +49,7 @@
 
 Make sure you have [npm and nodejs]
 
-1- Create a database for your site , open ```sh .env ```, edit the database configuration information, and run 
+1- Create a database for your site , open ``` .env ```, edit the database configuration information, and run 
 
 ```sh
 php artisan key:generate
