@@ -26,17 +26,17 @@
   <img   src="https://i.imgur.com/w0Bgteb.png" /> 
 </p>
 <h1 align="center" >   ✨ Photo from appliction    ✨</h1>
-# dashbord page 
+## dashbord page 
   
   <img width="700" align="center" src="https://i.imgur.com/zlqjbmy.jpg" alt="demo"/>
-  #  Gestion des Professeurs
+  ##  Gestion des Professeurs
 
 
 <img width="700" align="center" src="https://i.imgur.com/k1qoCbU.jpg" alt="demo"/>
-# Gestion des matiere
+## Gestion des matiere
      
   <img width="700" align="center" src="https://i.imgur.com/UfIIHrJ.jpg"/>
-  #  Gestion d'Emploie
+  ##  Gestion d'Emploie
 
 
   <img width="700" align="center" src="https://i.imgur.com/zBNfTJI.jpg" alt="demo"/>
