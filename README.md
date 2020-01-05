@@ -67,19 +67,25 @@
 
 Make sure you have [npm and nodejs]
 
-1- Create a database for your site , open ``` .env ```, edit the database configuration information, and run 
+1-  run the commend 
+
+```sh
+composer install
+```
+
+2 - Create a database for your site , open ``` .env ```, edit the database configuration information, and run 
 
 ```sh
 php artisan key:generate
 ```
 
-2- migrate database :
+3 - migrate database :
 
 ```sh
 un php artisan migrate --seed
 ```
 
-3-install package.json  :
+4 -install package.json  :
 
 ```sh
 npm install
