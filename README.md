@@ -1,6 +1,6 @@
   
 
-<h1 align="center" >   ⭐    Ayoub ELkhaddari   || Maroun Benchike  ⭐</h1>
+<h1 align="center" >   ⭐    Ayoub ELkhaddari   || Maroun Benchiekh  ⭐</h1>
 <p align="center"> 
   </p>
 
